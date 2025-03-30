@@ -1,3 +1,3 @@
-# Coursera-Excel-to-MySQL-Analytic-Techniques-for-Business-Specialization-Archive
+# Coursera-Excel-to-MySQL
 
-Record of deliverables for the course
+Analytic-Techniques-for-Business-Specialization-Archive: A record of my deliverables for the course
